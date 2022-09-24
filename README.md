@@ -9,7 +9,7 @@ When a client request is made via a RESTful API, it transfers a representation o
 
 This API allows users to create, delete, update and get the data from 'user data' from a mongo database. 
 
-# Useful Resources
+# Navigation
 - [How to use the API](https://github.com/Arnav2300/golang-restfulapi/edit/main/README.md#how-to-use-the-api) 
 - [Functions and features](https://github.com/Arnav2300/golang-restfulapi/edit/main/README.md#functions-and-features)
   - [Create request](https://github.com/Arnav2300/golang-restfulapi/edit/main/README.md#create-request)
